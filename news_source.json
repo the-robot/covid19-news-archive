@@ -1,0 +1,54 @@
+{
+  "RECORDS": [
+    {
+      "name": "Channel News Asia",
+      "short_name": "CNA",
+      "url": "https://www.channelnewsasia.com/rssfeeds/8395986"
+    },
+    {
+      "name": "Consumer News and Business Channel",
+      "short_name": "CNBC",
+      "url": "https://www.cnbc.com/id/100727362/device/rss/rss.html"
+    },
+    {
+      "name": "Cable News Network",
+      "short_name": "CNN",
+      "url": "http://rss.cnn.com/rss/edition.rss"
+    },
+    {
+      "name": "the Guardian",
+      "short_name": "the Guardian",
+      "url": "https://www.theguardian.com/world/rss"
+    },
+    {
+      "name": "New York Times",
+      "short_name": "New York Times",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+    },
+    {
+      "name": "Radio Free Asia",
+      "short_name": "RFA",
+      "url": "https://www.rfa.org/english/feed/rss2.xml"
+    },
+    {
+      "name": "The Strait Times",
+      "short_name": "The Strait Times",
+      "url": "https://www.straitstimes.com/news/asia/rss.xml"
+    },
+    {
+      "name": "The Independent",
+      "short_name": "The Independent",
+      "url": "http://www.independent.co.uk/news/world/rss"
+    },
+    {
+      "name": "Yahoo Singapore",
+      "short_name": "Yahoo Singapore",
+      "url": "https://sg.news.yahoo.com/rss/"
+    },
+    {
+      "name": "British Broadcasting Corporation",
+      "short_name": "BBC",
+      "url": "http://feeds.bbci.co.uk/news/world/rss.xml"
+    }
+  ]
+}

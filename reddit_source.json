@@ -1,0 +1,64 @@
+{
+  "RECORDS": [
+    {
+      "name": "China Flu",
+      "short_name": "r/china_flu",
+      "url": "https://www.reddit.com/r/china_flu/.rss"
+    },
+    {
+      "name": "Coronavirus",
+      "short_name": "r/coronavirus",
+      "url": "https://www.reddit.com/r/coronavirus/.rss"
+    },
+    {
+      "name": "Reddit News",
+      "short_name": "r/news",
+      "url": "https://www.reddit.com/r/news/.rss"
+    },
+    {
+      "name": "Singapore",
+      "short_name": "r/singapore",
+      "url": "https://www.reddit.com/r/singapore/.rss"
+    },
+    {
+      "name": "China",
+      "short_name": "r/china",
+      "url": "https://www.reddit.com/r/China/.rss"
+    },
+    {
+      "name": "COVID19",
+      "short_name": "r/COVID19",
+      "url": "https://www.reddit.com/r/COVID19/.rss"
+    },
+    {
+      "name": "nCoV",
+      "short_name": "r/nCoV",
+      "url": "https://www.reddit.com/r/nCoV/.rss"
+    },
+    {
+      "name": "Covid2019",
+      "short_name": "r/Covid2019",
+      "url": "https://www.reddit.com/r/Covid2019/.rss"
+    },
+    {
+      "name": "worldnews",
+      "short_name": "r/worldnews",
+      "url": "https://www.reddit.com/r/worldnews/.rss"
+    },
+    {
+      "name": "Health",
+      "short_name": "r/Health",
+      "url": "https://www.reddit.com/r/Health/.rss"
+    },
+    {
+      "name": "epidemic",
+      "short_name": "r/epidemic",
+      "url": "https://www.reddit.com/r/epidemic/.rss"
+    },
+    {
+      "name": "CoronaVirus_2019_nCoV",
+      "short_name": "r/CoronaVirus_2019_nCoV",
+      "url": "https://www.reddit.com/r/CoronaVirus_2019_nCoV/.rss"
+    }
+  ]
+}

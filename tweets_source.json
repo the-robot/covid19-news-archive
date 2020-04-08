@@ -1,0 +1,39 @@
+{
+  "RECORDS": [
+    {
+      "name": "the_wuhan_virus",
+      "short_name": "@thewuhanvirus",
+      "url": "https://twitrss.me/twitter_user_to_rss/?user=thewuhanvirus"
+    },
+    {
+      "name": "CoronavirusUPDATE",
+      "short_name": "@COVID_",
+      "url": "https://twitrss.me/twitter_user_to_rss/?user=COVID_"
+    },
+    {
+      "name": "Health Daily Advice",
+      "short_name": "@Healthadvice48",
+      "url": "https://twitrss.me/twitter_user_to_rss/?user=Healthadvice48"
+    },
+    {
+      "name": "CoronaVirus Updates",
+      "short_name": "@COVID19Update",
+      "url": "https://twitrss.me/twitter_user_to_rss/?user=COVID19Update"
+    },
+    {
+      "name": "CoronaVirus Breaking News",
+      "short_name": "@COVID_19NEWS",
+      "url": "https://twitrss.me/twitter_user_to_rss/?user=COVID_19NEWS"
+    },
+    {
+      "name": "Coronavirus Updates",
+      "short_name": "@CoronaVirusUPDT",
+      "url": "https://twitrss.me/twitter_user_to_rss/?user=CoronaVirusUPDT"
+    },
+    {
+      "name": "COVID-19 Epidemic Updates",
+      "short_name": "@nCoVirusUpdates",
+      "url": "https://twitrss.me/twitter_user_to_rss/?user=nCoVirusUpdates"
+    }
+  ]
+}
